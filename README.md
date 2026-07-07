@@ -1,5 +1,5 @@
 This is a testing environment
-'''mermaid
+```mermaid
 flowchart TD
     A[Start] --> B{Decision}
     B -->|Yes| C[Do something]
